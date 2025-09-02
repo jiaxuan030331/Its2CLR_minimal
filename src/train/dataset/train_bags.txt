@@ -1,0 +1,2 @@
+/training/tumor_real_016/
+/training/normal_real_016/
